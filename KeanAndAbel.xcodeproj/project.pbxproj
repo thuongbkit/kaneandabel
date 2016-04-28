@@ -9,11 +9,75 @@
 /* Begin PBXBuildFile section */
 		70B83DE01CD0BB6D0007F3D6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83DDF1CD0BB6D0007F3D6 /* main.m */; };
 		70B83DE31CD0BB6D0007F3D6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83DE21CD0BB6D0007F3D6 /* AppDelegate.m */; };
-		70B83DE61CD0BB6D0007F3D6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83DE51CD0BB6D0007F3D6 /* ViewController.m */; };
-		70B83DE91CD0BB6D0007F3D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70B83DE71CD0BB6D0007F3D6 /* Main.storyboard */; };
 		70B83DEB1CD0BB6D0007F3D6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70B83DEA1CD0BB6D0007F3D6 /* Images.xcassets */; };
-		70B83DEE1CD0BB6D0007F3D6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 70B83DEC1CD0BB6D0007F3D6 /* LaunchScreen.xib */; };
 		70B83DFA1CD0BB6D0007F3D6 /* KeanAndAbelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83DF91CD0BB6D0007F3D6 /* KeanAndAbelTests.m */; };
+		70B83E461CD0BCCF0007F3D6 /* Ashputtel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E091CD0BCCF0007F3D6 /* Ashputtel.grm */; };
+		70B83E471CD0BCCF0007F3D6 /* Briar Rose.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0A1CD0BCCF0007F3D6 /* Briar Rose.grm */; };
+		70B83E481CD0BCCF0007F3D6 /* Cat and Mouse In Partnership.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0B1CD0BCCF0007F3D6 /* Cat and Mouse In Partnership.grm */; };
+		70B83E491CD0BCCF0007F3D6 /* Cat Skin.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0C1CD0BCCF0007F3D6 /* Cat Skin.grm */; };
+		70B83E4A1CD0BCCF0007F3D6 /* Clever Elsie.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0D1CD0BCCF0007F3D6 /* Clever Elsie.grm */; };
+		70B83E4B1CD0BCCF0007F3D6 /* Clever Gretel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0E1CD0BCCF0007F3D6 /* Clever Gretel.grm */; };
+		70B83E4C1CD0BCCF0007F3D6 /* Clever Hans.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E0F1CD0BCCF0007F3D6 /* Clever Hans.grm */; };
+		70B83E4D1CD0BCCF0007F3D6 /* Doctor Knowall.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E101CD0BCCF0007F3D6 /* Doctor Knowall.grm */; };
+		70B83E4E1CD0BCCF0007F3D6 /* Frederick and Catherine.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E111CD0BCCF0007F3D6 /* Frederick and Catherine.grm */; };
+		70B83E4F1CD0BCCF0007F3D6 /* Fundevogel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E121CD0BCCF0007F3D6 /* Fundevogel.grm */; };
+		70B83E501CD0BCCF0007F3D6 /* Hans In Luck.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E131CD0BCCF0007F3D6 /* Hans In Luck.grm */; };
+		70B83E511CD0BCCF0007F3D6 /* Hansel and Gretel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E141CD0BCCF0007F3D6 /* Hansel and Gretel.grm */; };
+		70B83E521CD0BCCF0007F3D6 /* Iron Hans.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E151CD0BCCF0007F3D6 /* Iron Hans.grm */; };
+		70B83E531CD0BCCF0007F3D6 /* Jorinda And Jorindel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E161CD0BCCF0007F3D6 /* Jorinda And Jorindel.grm */; };
+		70B83E541CD0BCCF0007F3D6 /* King Grisly-Beard.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E171CD0BCCF0007F3D6 /* King Grisly-Beard.grm */; };
+		70B83E551CD0BCCF0007F3D6 /* Lily and The Lion.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E181CD0BCCF0007F3D6 /* Lily and The Lion.grm */; };
+		70B83E561CD0BCCF0007F3D6 /* Little Red Cap.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E191CD0BCCF0007F3D6 /* Little Red Cap.grm */; };
+		70B83E571CD0BCCF0007F3D6 /* Mother Holle.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1A1CD0BCCF0007F3D6 /* Mother Holle.grm */; };
+		70B83E581CD0BCCF0007F3D6 /* Old Sultan.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1B1CD0BCCF0007F3D6 /* Old Sultan.grm */; };
+		70B83E591CD0BCCF0007F3D6 /* Rapunzel.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1C1CD0BCCF0007F3D6 /* Rapunzel.grm */; };
+		70B83E5A1CD0BCCF0007F3D6 /* Rumpelstiltskin.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1D1CD0BCCF0007F3D6 /* Rumpelstiltskin.grm */; };
+		70B83E5B1CD0BCCF0007F3D6 /* Snow White and Rose Red.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1E1CD0BCCF0007F3D6 /* Snow White and Rose Red.grm */; };
+		70B83E5C1CD0BCCF0007F3D6 /* Snowdrop.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E1F1CD0BCCF0007F3D6 /* Snowdrop.grm */; };
+		70B83E5D1CD0BCCF0007F3D6 /* Sweetheart Roland.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E201CD0BCCF0007F3D6 /* Sweetheart Roland.grm */; };
+		70B83E5E1CD0BCCF0007F3D6 /* The Adventures of Chanticleer and Partlet.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E211CD0BCCF0007F3D6 /* The Adventures of Chanticleer and Partlet.grm */; };
+		70B83E5F1CD0BCCF0007F3D6 /* The Blue Light.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E221CD0BCCF0007F3D6 /* The Blue Light.grm */; };
+		70B83E601CD0BCCF0007F3D6 /* The Dog and The Sparrow.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E231CD0BCCF0007F3D6 /* The Dog and The Sparrow.grm */; };
+		70B83E611CD0BCCF0007F3D6 /* The Elves and The Shoemaker.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E241CD0BCCF0007F3D6 /* The Elves and The Shoemaker.grm */; };
+		70B83E621CD0BCCF0007F3D6 /* The Fisherman and His Wife.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E251CD0BCCF0007F3D6 /* The Fisherman and His Wife.grm */; };
+		70B83E631CD0BCCF0007F3D6 /* The Four Clever Brothers.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E261CD0BCCF0007F3D6 /* The Four Clever Brothers.grm */; };
+		70B83E641CD0BCCF0007F3D6 /* The Fox and The Cat.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E271CD0BCCF0007F3D6 /* The Fox and The Cat.grm */; };
+		70B83E651CD0BCCF0007F3D6 /* The Fox and The Horse.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E281CD0BCCF0007F3D6 /* The Fox and The Horse.grm */; };
+		70B83E661CD0BCCF0007F3D6 /* The Frog Prince.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E291CD0BCCF0007F3D6 /* The Frog Prince.grm */; };
+		70B83E671CD0BCCF0007F3D6 /* The Golden Bird.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2A1CD0BCCF0007F3D6 /* The Golden Bird.grm */; };
+		70B83E681CD0BCCF0007F3D6 /* The Golden Goose.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2B1CD0BCCF0007F3D6 /* The Golden Goose.grm */; };
+		70B83E691CD0BCCF0007F3D6 /* The Goose Girl.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2C1CD0BCCF0007F3D6 /* The Goose Girl.grm */; };
+		70B83E6A1CD0BCCF0007F3D6 /* The Juniper Tree.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2D1CD0BCCF0007F3D6 /* The Juniper Tree.grm */; };
+		70B83E6B1CD0BCCF0007F3D6 /* The King of The Golden Mountain.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2E1CD0BCCF0007F3D6 /* The King of The Golden Mountain.grm */; };
+		70B83E6C1CD0BCCF0007F3D6 /* The Little Peasant.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E2F1CD0BCCF0007F3D6 /* The Little Peasant.grm */; };
+		70B83E6D1CD0BCCF0007F3D6 /* The Miser In The Bush.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E301CD0BCCF0007F3D6 /* The Miser In The Bush.grm */; };
+		70B83E6E1CD0BCCF0007F3D6 /* The Mouse, The Bird, and The Sausage.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E311CD0BCCF0007F3D6 /* The Mouse, The Bird, and The Sausage.grm */; };
+		70B83E6F1CD0BCCF0007F3D6 /* The Old Man and His Grandson.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E321CD0BCCF0007F3D6 /* The Old Man and His Grandson.grm */; };
+		70B83E701CD0BCCF0007F3D6 /* The Pink.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E331CD0BCCF0007F3D6 /* The Pink.grm */; };
+		70B83E711CD0BCCF0007F3D6 /* The Queen Bee.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E341CD0BCCF0007F3D6 /* The Queen Bee.grm */; };
+		70B83E721CD0BCCF0007F3D6 /* The Raven.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E351CD0BCCF0007F3D6 /* The Raven.grm */; };
+		70B83E731CD0BCCF0007F3D6 /* The Robber Bridegroom.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E361CD0BCCF0007F3D6 /* The Robber Bridegroom.grm */; };
+		70B83E741CD0BCCF0007F3D6 /* The Salad.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E371CD0BCCF0007F3D6 /* The Salad.grm */; };
+		70B83E751CD0BCCF0007F3D6 /* The Seven Ravens.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E381CD0BCCF0007F3D6 /* The Seven Ravens.grm */; };
+		70B83E761CD0BCCF0007F3D6 /* The Straw, The Coal, And The Bean.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E391CD0BCCF0007F3D6 /* The Straw, The Coal, And The Bean.grm */; };
+		70B83E771CD0BCCF0007F3D6 /* The Three Languages.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3A1CD0BCCF0007F3D6 /* The Three Languages.grm */; };
+		70B83E781CD0BCCF0007F3D6 /* The Travelling Musicians.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3B1CD0BCCF0007F3D6 /* The Travelling Musicians.grm */; };
+		70B83E791CD0BCCF0007F3D6 /* The Turnip.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3C1CD0BCCF0007F3D6 /* The Turnip.grm */; };
+		70B83E7A1CD0BCCF0007F3D6 /* The Twelve Dancing Princesses.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3D1CD0BCCF0007F3D6 /* The Twelve Dancing Princesses.grm */; };
+		70B83E7B1CD0BCCF0007F3D6 /* The Twelve Huntsmen.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3E1CD0BCCF0007F3D6 /* The Twelve Huntsmen.grm */; };
+		70B83E7C1CD0BCCF0007F3D6 /* The Valiant Little Tailor.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E3F1CD0BCCF0007F3D6 /* The Valiant Little Tailor.grm */; };
+		70B83E7D1CD0BCCF0007F3D6 /* The Water of Life.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E401CD0BCCF0007F3D6 /* The Water of Life.grm */; };
+		70B83E7E1CD0BCCF0007F3D6 /* The Wedding of Mrs Fox.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E411CD0BCCF0007F3D6 /* The Wedding of Mrs Fox.grm */; };
+		70B83E7F1CD0BCCF0007F3D6 /* The White Snake.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E421CD0BCCF0007F3D6 /* The White Snake.grm */; };
+		70B83E801CD0BCCF0007F3D6 /* The Willow Wren and The Bear.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E431CD0BCCF0007F3D6 /* The Willow Wren and The Bear.grm */; };
+		70B83E811CD0BCCF0007F3D6 /* The Wolf and The Seven Little Kids.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E441CD0BCCF0007F3D6 /* The Wolf and The Seven Little Kids.grm */; };
+		70B83E821CD0BCCF0007F3D6 /* Tom Thumb.grm in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E451CD0BCCF0007F3D6 /* Tom Thumb.grm */; };
+		70B83E851CD0BD1B0007F3D6 /* Story.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83E841CD0BD1B0007F3D6 /* Story.m */; };
+		70B83E881CD0C7210007F3D6 /* StoryListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83E871CD0C7210007F3D6 /* StoryListController.m */; };
+		70B83E8E1CD1F0C90007F3D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E8C1CD1F0C90007F3D6 /* Main.storyboard */; };
+		70B83E911CD1F4600007F3D6 /* StoryDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70B83E901CD1F45F0007F3D6 /* StoryDetailViewController.m */; };
+		70B83E9D1CD215000007F3D6 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 70B83E9C1CD215000007F3D6 /* Default.png */; };
+		70B83EA21CD217C10007F3D6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 70B83EA01CD217C10007F3D6 /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +96,80 @@
 		70B83DDF1CD0BB6D0007F3D6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		70B83DE11CD0BB6D0007F3D6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		70B83DE21CD0BB6D0007F3D6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		70B83DE41CD0BB6D0007F3D6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		70B83DE51CD0BB6D0007F3D6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		70B83DE81CD0BB6D0007F3D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		70B83DEA1CD0BB6D0007F3D6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		70B83DED1CD0BB6D0007F3D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		70B83DF31CD0BB6D0007F3D6 /* KeanAndAbelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KeanAndAbelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		70B83DF81CD0BB6D0007F3D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70B83DF91CD0BB6D0007F3D6 /* KeanAndAbelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeanAndAbelTests.m; sourceTree = "<group>"; };
+		70B83E091CD0BCCF0007F3D6 /* Ashputtel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ashputtel.grm; sourceTree = "<group>"; };
+		70B83E0A1CD0BCCF0007F3D6 /* Briar Rose.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Briar Rose.grm"; sourceTree = "<group>"; };
+		70B83E0B1CD0BCCF0007F3D6 /* Cat and Mouse In Partnership.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Cat and Mouse In Partnership.grm"; sourceTree = "<group>"; };
+		70B83E0C1CD0BCCF0007F3D6 /* Cat Skin.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Cat Skin.grm"; sourceTree = "<group>"; };
+		70B83E0D1CD0BCCF0007F3D6 /* Clever Elsie.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Clever Elsie.grm"; sourceTree = "<group>"; };
+		70B83E0E1CD0BCCF0007F3D6 /* Clever Gretel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Clever Gretel.grm"; sourceTree = "<group>"; };
+		70B83E0F1CD0BCCF0007F3D6 /* Clever Hans.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Clever Hans.grm"; sourceTree = "<group>"; };
+		70B83E101CD0BCCF0007F3D6 /* Doctor Knowall.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Doctor Knowall.grm"; sourceTree = "<group>"; };
+		70B83E111CD0BCCF0007F3D6 /* Frederick and Catherine.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Frederick and Catherine.grm"; sourceTree = "<group>"; };
+		70B83E121CD0BCCF0007F3D6 /* Fundevogel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fundevogel.grm; sourceTree = "<group>"; };
+		70B83E131CD0BCCF0007F3D6 /* Hans In Luck.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Hans In Luck.grm"; sourceTree = "<group>"; };
+		70B83E141CD0BCCF0007F3D6 /* Hansel and Gretel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Hansel and Gretel.grm"; sourceTree = "<group>"; };
+		70B83E151CD0BCCF0007F3D6 /* Iron Hans.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Iron Hans.grm"; sourceTree = "<group>"; };
+		70B83E161CD0BCCF0007F3D6 /* Jorinda And Jorindel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jorinda And Jorindel.grm"; sourceTree = "<group>"; };
+		70B83E171CD0BCCF0007F3D6 /* King Grisly-Beard.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "King Grisly-Beard.grm"; sourceTree = "<group>"; };
+		70B83E181CD0BCCF0007F3D6 /* Lily and The Lion.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lily and The Lion.grm"; sourceTree = "<group>"; };
+		70B83E191CD0BCCF0007F3D6 /* Little Red Cap.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Little Red Cap.grm"; sourceTree = "<group>"; };
+		70B83E1A1CD0BCCF0007F3D6 /* Mother Holle.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mother Holle.grm"; sourceTree = "<group>"; };
+		70B83E1B1CD0BCCF0007F3D6 /* Old Sultan.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Old Sultan.grm"; sourceTree = "<group>"; };
+		70B83E1C1CD0BCCF0007F3D6 /* Rapunzel.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Rapunzel.grm; sourceTree = "<group>"; };
+		70B83E1D1CD0BCCF0007F3D6 /* Rumpelstiltskin.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Rumpelstiltskin.grm; sourceTree = "<group>"; };
+		70B83E1E1CD0BCCF0007F3D6 /* Snow White and Rose Red.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Snow White and Rose Red.grm"; sourceTree = "<group>"; };
+		70B83E1F1CD0BCCF0007F3D6 /* Snowdrop.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Snowdrop.grm; sourceTree = "<group>"; };
+		70B83E201CD0BCCF0007F3D6 /* Sweetheart Roland.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Sweetheart Roland.grm"; sourceTree = "<group>"; };
+		70B83E211CD0BCCF0007F3D6 /* The Adventures of Chanticleer and Partlet.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Adventures of Chanticleer and Partlet.grm"; sourceTree = "<group>"; };
+		70B83E221CD0BCCF0007F3D6 /* The Blue Light.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Blue Light.grm"; sourceTree = "<group>"; };
+		70B83E231CD0BCCF0007F3D6 /* The Dog and The Sparrow.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Dog and The Sparrow.grm"; sourceTree = "<group>"; };
+		70B83E241CD0BCCF0007F3D6 /* The Elves and The Shoemaker.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Elves and The Shoemaker.grm"; sourceTree = "<group>"; };
+		70B83E251CD0BCCF0007F3D6 /* The Fisherman and His Wife.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Fisherman and His Wife.grm"; sourceTree = "<group>"; };
+		70B83E261CD0BCCF0007F3D6 /* The Four Clever Brothers.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Four Clever Brothers.grm"; sourceTree = "<group>"; };
+		70B83E271CD0BCCF0007F3D6 /* The Fox and The Cat.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Fox and The Cat.grm"; sourceTree = "<group>"; };
+		70B83E281CD0BCCF0007F3D6 /* The Fox and The Horse.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Fox and The Horse.grm"; sourceTree = "<group>"; };
+		70B83E291CD0BCCF0007F3D6 /* The Frog Prince.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Frog Prince.grm"; sourceTree = "<group>"; };
+		70B83E2A1CD0BCCF0007F3D6 /* The Golden Bird.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Golden Bird.grm"; sourceTree = "<group>"; };
+		70B83E2B1CD0BCCF0007F3D6 /* The Golden Goose.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Golden Goose.grm"; sourceTree = "<group>"; };
+		70B83E2C1CD0BCCF0007F3D6 /* The Goose Girl.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Goose Girl.grm"; sourceTree = "<group>"; };
+		70B83E2D1CD0BCCF0007F3D6 /* The Juniper Tree.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Juniper Tree.grm"; sourceTree = "<group>"; };
+		70B83E2E1CD0BCCF0007F3D6 /* The King of The Golden Mountain.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The King of The Golden Mountain.grm"; sourceTree = "<group>"; };
+		70B83E2F1CD0BCCF0007F3D6 /* The Little Peasant.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Little Peasant.grm"; sourceTree = "<group>"; };
+		70B83E301CD0BCCF0007F3D6 /* The Miser In The Bush.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Miser In The Bush.grm"; sourceTree = "<group>"; };
+		70B83E311CD0BCCF0007F3D6 /* The Mouse, The Bird, and The Sausage.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Mouse, The Bird, and The Sausage.grm"; sourceTree = "<group>"; };
+		70B83E321CD0BCCF0007F3D6 /* The Old Man and His Grandson.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Old Man and His Grandson.grm"; sourceTree = "<group>"; };
+		70B83E331CD0BCCF0007F3D6 /* The Pink.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Pink.grm"; sourceTree = "<group>"; };
+		70B83E341CD0BCCF0007F3D6 /* The Queen Bee.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Queen Bee.grm"; sourceTree = "<group>"; };
+		70B83E351CD0BCCF0007F3D6 /* The Raven.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Raven.grm"; sourceTree = "<group>"; };
+		70B83E361CD0BCCF0007F3D6 /* The Robber Bridegroom.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Robber Bridegroom.grm"; sourceTree = "<group>"; };
+		70B83E371CD0BCCF0007F3D6 /* The Salad.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Salad.grm"; sourceTree = "<group>"; };
+		70B83E381CD0BCCF0007F3D6 /* The Seven Ravens.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Seven Ravens.grm"; sourceTree = "<group>"; };
+		70B83E391CD0BCCF0007F3D6 /* The Straw, The Coal, And The Bean.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Straw, The Coal, And The Bean.grm"; sourceTree = "<group>"; };
+		70B83E3A1CD0BCCF0007F3D6 /* The Three Languages.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Three Languages.grm"; sourceTree = "<group>"; };
+		70B83E3B1CD0BCCF0007F3D6 /* The Travelling Musicians.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Travelling Musicians.grm"; sourceTree = "<group>"; };
+		70B83E3C1CD0BCCF0007F3D6 /* The Turnip.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Turnip.grm"; sourceTree = "<group>"; };
+		70B83E3D1CD0BCCF0007F3D6 /* The Twelve Dancing Princesses.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Twelve Dancing Princesses.grm"; sourceTree = "<group>"; };
+		70B83E3E1CD0BCCF0007F3D6 /* The Twelve Huntsmen.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Twelve Huntsmen.grm"; sourceTree = "<group>"; };
+		70B83E3F1CD0BCCF0007F3D6 /* The Valiant Little Tailor.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Valiant Little Tailor.grm"; sourceTree = "<group>"; };
+		70B83E401CD0BCCF0007F3D6 /* The Water of Life.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Water of Life.grm"; sourceTree = "<group>"; };
+		70B83E411CD0BCCF0007F3D6 /* The Wedding of Mrs Fox.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Wedding of Mrs Fox.grm"; sourceTree = "<group>"; };
+		70B83E421CD0BCCF0007F3D6 /* The White Snake.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The White Snake.grm"; sourceTree = "<group>"; };
+		70B83E431CD0BCCF0007F3D6 /* The Willow Wren and The Bear.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Willow Wren and The Bear.grm"; sourceTree = "<group>"; };
+		70B83E441CD0BCCF0007F3D6 /* The Wolf and The Seven Little Kids.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "The Wolf and The Seven Little Kids.grm"; sourceTree = "<group>"; };
+		70B83E451CD0BCCF0007F3D6 /* Tom Thumb.grm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Tom Thumb.grm"; sourceTree = "<group>"; };
+		70B83E831CD0BD1B0007F3D6 /* Story.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Story.h; sourceTree = "<group>"; };
+		70B83E841CD0BD1B0007F3D6 /* Story.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Story.m; sourceTree = "<group>"; };
+		70B83E861CD0C7210007F3D6 /* StoryListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryListController.h; sourceTree = "<group>"; };
+		70B83E871CD0C7210007F3D6 /* StoryListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryListController.m; sourceTree = "<group>"; };
+		70B83E8D1CD1F0C90007F3D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		70B83E8F1CD1F45F0007F3D6 /* StoryDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryDetailViewController.h; sourceTree = "<group>"; };
+		70B83E901CD1F45F0007F3D6 /* StoryDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryDetailViewController.m; sourceTree = "<group>"; };
+		70B83E9C1CD215000007F3D6 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../../../Default.png; sourceTree = "<group>"; };
+		70B83EA11CD217C10007F3D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,13 +211,19 @@
 		70B83DDC1CD0BB6D0007F3D6 /* KeanAndAbel */ = {
 			isa = PBXGroup;
 			children = (
+				70B83EA01CD217C10007F3D6 /* LaunchScreen.xib */,
+				70B83E9C1CD215000007F3D6 /* Default.png */,
+				70B83E081CD0BCCF0007F3D6 /* Stories */,
 				70B83DE11CD0BB6D0007F3D6 /* AppDelegate.h */,
 				70B83DE21CD0BB6D0007F3D6 /* AppDelegate.m */,
-				70B83DE41CD0BB6D0007F3D6 /* ViewController.h */,
-				70B83DE51CD0BB6D0007F3D6 /* ViewController.m */,
-				70B83DE71CD0BB6D0007F3D6 /* Main.storyboard */,
+				70B83E831CD0BD1B0007F3D6 /* Story.h */,
+				70B83E841CD0BD1B0007F3D6 /* Story.m */,
+				70B83E861CD0C7210007F3D6 /* StoryListController.h */,
+				70B83E871CD0C7210007F3D6 /* StoryListController.m */,
+				70B83E8F1CD1F45F0007F3D6 /* StoryDetailViewController.h */,
+				70B83E901CD1F45F0007F3D6 /* StoryDetailViewController.m */,
 				70B83DEA1CD0BB6D0007F3D6 /* Images.xcassets */,
-				70B83DEC1CD0BB6D0007F3D6 /* LaunchScreen.xib */,
+				70B83E8C1CD1F0C90007F3D6 /* Main.storyboard */,
 				70B83DDD1CD0BB6D0007F3D6 /* Supporting Files */,
 			);
 			path = KeanAndAbel;
@@ -117,6 +253,75 @@
 				70B83DF81CD0BB6D0007F3D6 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		70B83E081CD0BCCF0007F3D6 /* Stories */ = {
+			isa = PBXGroup;
+			children = (
+				70B83E091CD0BCCF0007F3D6 /* Ashputtel.grm */,
+				70B83E0A1CD0BCCF0007F3D6 /* Briar Rose.grm */,
+				70B83E0B1CD0BCCF0007F3D6 /* Cat and Mouse In Partnership.grm */,
+				70B83E0C1CD0BCCF0007F3D6 /* Cat Skin.grm */,
+				70B83E0D1CD0BCCF0007F3D6 /* Clever Elsie.grm */,
+				70B83E0E1CD0BCCF0007F3D6 /* Clever Gretel.grm */,
+				70B83E0F1CD0BCCF0007F3D6 /* Clever Hans.grm */,
+				70B83E101CD0BCCF0007F3D6 /* Doctor Knowall.grm */,
+				70B83E111CD0BCCF0007F3D6 /* Frederick and Catherine.grm */,
+				70B83E121CD0BCCF0007F3D6 /* Fundevogel.grm */,
+				70B83E131CD0BCCF0007F3D6 /* Hans In Luck.grm */,
+				70B83E141CD0BCCF0007F3D6 /* Hansel and Gretel.grm */,
+				70B83E151CD0BCCF0007F3D6 /* Iron Hans.grm */,
+				70B83E161CD0BCCF0007F3D6 /* Jorinda And Jorindel.grm */,
+				70B83E171CD0BCCF0007F3D6 /* King Grisly-Beard.grm */,
+				70B83E181CD0BCCF0007F3D6 /* Lily and The Lion.grm */,
+				70B83E191CD0BCCF0007F3D6 /* Little Red Cap.grm */,
+				70B83E1A1CD0BCCF0007F3D6 /* Mother Holle.grm */,
+				70B83E1B1CD0BCCF0007F3D6 /* Old Sultan.grm */,
+				70B83E1C1CD0BCCF0007F3D6 /* Rapunzel.grm */,
+				70B83E1D1CD0BCCF0007F3D6 /* Rumpelstiltskin.grm */,
+				70B83E1E1CD0BCCF0007F3D6 /* Snow White and Rose Red.grm */,
+				70B83E1F1CD0BCCF0007F3D6 /* Snowdrop.grm */,
+				70B83E201CD0BCCF0007F3D6 /* Sweetheart Roland.grm */,
+				70B83E211CD0BCCF0007F3D6 /* The Adventures of Chanticleer and Partlet.grm */,
+				70B83E221CD0BCCF0007F3D6 /* The Blue Light.grm */,
+				70B83E231CD0BCCF0007F3D6 /* The Dog and The Sparrow.grm */,
+				70B83E241CD0BCCF0007F3D6 /* The Elves and The Shoemaker.grm */,
+				70B83E251CD0BCCF0007F3D6 /* The Fisherman and His Wife.grm */,
+				70B83E261CD0BCCF0007F3D6 /* The Four Clever Brothers.grm */,
+				70B83E271CD0BCCF0007F3D6 /* The Fox and The Cat.grm */,
+				70B83E281CD0BCCF0007F3D6 /* The Fox and The Horse.grm */,
+				70B83E291CD0BCCF0007F3D6 /* The Frog Prince.grm */,
+				70B83E2A1CD0BCCF0007F3D6 /* The Golden Bird.grm */,
+				70B83E2B1CD0BCCF0007F3D6 /* The Golden Goose.grm */,
+				70B83E2C1CD0BCCF0007F3D6 /* The Goose Girl.grm */,
+				70B83E2D1CD0BCCF0007F3D6 /* The Juniper Tree.grm */,
+				70B83E2E1CD0BCCF0007F3D6 /* The King of The Golden Mountain.grm */,
+				70B83E2F1CD0BCCF0007F3D6 /* The Little Peasant.grm */,
+				70B83E301CD0BCCF0007F3D6 /* The Miser In The Bush.grm */,
+				70B83E311CD0BCCF0007F3D6 /* The Mouse, The Bird, and The Sausage.grm */,
+				70B83E321CD0BCCF0007F3D6 /* The Old Man and His Grandson.grm */,
+				70B83E331CD0BCCF0007F3D6 /* The Pink.grm */,
+				70B83E341CD0BCCF0007F3D6 /* The Queen Bee.grm */,
+				70B83E351CD0BCCF0007F3D6 /* The Raven.grm */,
+				70B83E361CD0BCCF0007F3D6 /* The Robber Bridegroom.grm */,
+				70B83E371CD0BCCF0007F3D6 /* The Salad.grm */,
+				70B83E381CD0BCCF0007F3D6 /* The Seven Ravens.grm */,
+				70B83E391CD0BCCF0007F3D6 /* The Straw, The Coal, And The Bean.grm */,
+				70B83E3A1CD0BCCF0007F3D6 /* The Three Languages.grm */,
+				70B83E3B1CD0BCCF0007F3D6 /* The Travelling Musicians.grm */,
+				70B83E3C1CD0BCCF0007F3D6 /* The Turnip.grm */,
+				70B83E3D1CD0BCCF0007F3D6 /* The Twelve Dancing Princesses.grm */,
+				70B83E3E1CD0BCCF0007F3D6 /* The Twelve Huntsmen.grm */,
+				70B83E3F1CD0BCCF0007F3D6 /* The Valiant Little Tailor.grm */,
+				70B83E401CD0BCCF0007F3D6 /* The Water of Life.grm */,
+				70B83E411CD0BCCF0007F3D6 /* The Wedding of Mrs Fox.grm */,
+				70B83E421CD0BCCF0007F3D6 /* The White Snake.grm */,
+				70B83E431CD0BCCF0007F3D6 /* The Willow Wren and The Bear.grm */,
+				70B83E441CD0BCCF0007F3D6 /* The Wolf and The Seven Little Kids.grm */,
+				70B83E451CD0BCCF0007F3D6 /* Tom Thumb.grm */,
+			);
+			name = Stories;
+			path = ../../Grimm/Grimm/Stories;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +404,71 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70B83DE91CD0BB6D0007F3D6 /* Main.storyboard in Resources */,
-				70B83DEE1CD0BB6D0007F3D6 /* LaunchScreen.xib in Resources */,
+				70B83E7A1CD0BCCF0007F3D6 /* The Twelve Dancing Princesses.grm in Resources */,
+				70B83E6F1CD0BCCF0007F3D6 /* The Old Man and His Grandson.grm in Resources */,
+				70B83E631CD0BCCF0007F3D6 /* The Four Clever Brothers.grm in Resources */,
+				70B83E711CD0BCCF0007F3D6 /* The Queen Bee.grm in Resources */,
+				70B83E4D1CD0BCCF0007F3D6 /* Doctor Knowall.grm in Resources */,
+				70B83E541CD0BCCF0007F3D6 /* King Grisly-Beard.grm in Resources */,
+				70B83E6C1CD0BCCF0007F3D6 /* The Little Peasant.grm in Resources */,
+				70B83E661CD0BCCF0007F3D6 /* The Frog Prince.grm in Resources */,
+				70B83E801CD0BCCF0007F3D6 /* The Willow Wren and The Bear.grm in Resources */,
+				70B83E501CD0BCCF0007F3D6 /* Hans In Luck.grm in Resources */,
+				70B83E7F1CD0BCCF0007F3D6 /* The White Snake.grm in Resources */,
+				70B83E8E1CD1F0C90007F3D6 /* Main.storyboard in Resources */,
+				70B83E671CD0BCCF0007F3D6 /* The Golden Bird.grm in Resources */,
+				70B83E601CD0BCCF0007F3D6 /* The Dog and The Sparrow.grm in Resources */,
+				70B83E521CD0BCCF0007F3D6 /* Iron Hans.grm in Resources */,
+				70B83E641CD0BCCF0007F3D6 /* The Fox and The Cat.grm in Resources */,
+				70B83E821CD0BCCF0007F3D6 /* Tom Thumb.grm in Resources */,
+				70B83E691CD0BCCF0007F3D6 /* The Goose Girl.grm in Resources */,
+				70B83E7D1CD0BCCF0007F3D6 /* The Water of Life.grm in Resources */,
+				70B83E571CD0BCCF0007F3D6 /* Mother Holle.grm in Resources */,
+				70B83E7B1CD0BCCF0007F3D6 /* The Twelve Huntsmen.grm in Resources */,
+				70B83E491CD0BCCF0007F3D6 /* Cat Skin.grm in Resources */,
+				70B83E4E1CD0BCCF0007F3D6 /* Frederick and Catherine.grm in Resources */,
+				70B83E481CD0BCCF0007F3D6 /* Cat and Mouse In Partnership.grm in Resources */,
+				70B83E6B1CD0BCCF0007F3D6 /* The King of The Golden Mountain.grm in Resources */,
 				70B83DEB1CD0BB6D0007F3D6 /* Images.xcassets in Resources */,
+				70B83E551CD0BCCF0007F3D6 /* Lily and The Lion.grm in Resources */,
+				70B83E7C1CD0BCCF0007F3D6 /* The Valiant Little Tailor.grm in Resources */,
+				70B83E681CD0BCCF0007F3D6 /* The Golden Goose.grm in Resources */,
+				70B83E461CD0BCCF0007F3D6 /* Ashputtel.grm in Resources */,
+				70B83E701CD0BCCF0007F3D6 /* The Pink.grm in Resources */,
+				70B83E791CD0BCCF0007F3D6 /* The Turnip.grm in Resources */,
+				70B83E741CD0BCCF0007F3D6 /* The Salad.grm in Resources */,
+				70B83E5E1CD0BCCF0007F3D6 /* The Adventures of Chanticleer and Partlet.grm in Resources */,
+				70B83E4F1CD0BCCF0007F3D6 /* Fundevogel.grm in Resources */,
+				70B83EA21CD217C10007F3D6 /* LaunchScreen.xib in Resources */,
+				70B83E771CD0BCCF0007F3D6 /* The Three Languages.grm in Resources */,
+				70B83E591CD0BCCF0007F3D6 /* Rapunzel.grm in Resources */,
+				70B83E4C1CD0BCCF0007F3D6 /* Clever Hans.grm in Resources */,
+				70B83E621CD0BCCF0007F3D6 /* The Fisherman and His Wife.grm in Resources */,
+				70B83E611CD0BCCF0007F3D6 /* The Elves and The Shoemaker.grm in Resources */,
+				70B83E471CD0BCCF0007F3D6 /* Briar Rose.grm in Resources */,
+				70B83E5A1CD0BCCF0007F3D6 /* Rumpelstiltskin.grm in Resources */,
+				70B83E6D1CD0BCCF0007F3D6 /* The Miser In The Bush.grm in Resources */,
+				70B83E5C1CD0BCCF0007F3D6 /* Snowdrop.grm in Resources */,
+				70B83E751CD0BCCF0007F3D6 /* The Seven Ravens.grm in Resources */,
+				70B83E581CD0BCCF0007F3D6 /* Old Sultan.grm in Resources */,
+				70B83E6A1CD0BCCF0007F3D6 /* The Juniper Tree.grm in Resources */,
+				70B83E7E1CD0BCCF0007F3D6 /* The Wedding of Mrs Fox.grm in Resources */,
+				70B83E5B1CD0BCCF0007F3D6 /* Snow White and Rose Red.grm in Resources */,
+				70B83E511CD0BCCF0007F3D6 /* Hansel and Gretel.grm in Resources */,
+				70B83E4A1CD0BCCF0007F3D6 /* Clever Elsie.grm in Resources */,
+				70B83E731CD0BCCF0007F3D6 /* The Robber Bridegroom.grm in Resources */,
+				70B83E6E1CD0BCCF0007F3D6 /* The Mouse, The Bird, and The Sausage.grm in Resources */,
+				70B83E5F1CD0BCCF0007F3D6 /* The Blue Light.grm in Resources */,
+				70B83E531CD0BCCF0007F3D6 /* Jorinda And Jorindel.grm in Resources */,
+				70B83E811CD0BCCF0007F3D6 /* The Wolf and The Seven Little Kids.grm in Resources */,
+				70B83E5D1CD0BCCF0007F3D6 /* Sweetheart Roland.grm in Resources */,
+				70B83E4B1CD0BCCF0007F3D6 /* Clever Gretel.grm in Resources */,
+				70B83E9D1CD215000007F3D6 /* Default.png in Resources */,
+				70B83E781CD0BCCF0007F3D6 /* The Travelling Musicians.grm in Resources */,
+				70B83E561CD0BCCF0007F3D6 /* Little Red Cap.grm in Resources */,
+				70B83E761CD0BCCF0007F3D6 /* The Straw, The Coal, And The Bean.grm in Resources */,
+				70B83E721CD0BCCF0007F3D6 /* The Raven.grm in Resources */,
+				70B83E651CD0BCCF0007F3D6 /* The Fox and The Horse.grm in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +486,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70B83DE61CD0BB6D0007F3D6 /* ViewController.m in Sources */,
 				70B83DE31CD0BB6D0007F3D6 /* AppDelegate.m in Sources */,
+				70B83E881CD0C7210007F3D6 /* StoryListController.m in Sources */,
+				70B83E911CD1F4600007F3D6 /* StoryDetailViewController.m in Sources */,
 				70B83DE01CD0BB6D0007F3D6 /* main.m in Sources */,
+				70B83E851CD0BD1B0007F3D6 /* Story.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,18 +513,18 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		70B83DE71CD0BB6D0007F3D6 /* Main.storyboard */ = {
+		70B83E8C1CD1F0C90007F3D6 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				70B83DE81CD0BB6D0007F3D6 /* Base */,
+				70B83E8D1CD1F0C90007F3D6 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		70B83DEC1CD0BB6D0007F3D6 /* LaunchScreen.xib */ = {
+		70B83EA01CD217C10007F3D6 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				70B83DED1CD0BB6D0007F3D6 /* Base */,
+				70B83EA11CD217C10007F3D6 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -412,6 +681,7 @@
 				70B83DFF1CD0BB6D0007F3D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		70B83E001CD0BB6D0007F3D6 /* Build configuration list for PBXNativeTarget "KeanAndAbelTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +690,7 @@
 				70B83E021CD0BB6D0007F3D6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
